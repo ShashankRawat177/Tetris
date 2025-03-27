@@ -30,6 +30,7 @@ A simple Tetris game implemented in C++ using the console for display and intera
    ```sh
    tetris
    ```
+   A working version of the exe file has been uploaded in the releases section.
 
 ## Dependencies
 - Uses `<conio.h>` and `<windows.h>` (Windows only).
